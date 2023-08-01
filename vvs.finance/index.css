@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'RetroLandMayhem';
+  src: url('./fonts/retro-land-mayhem.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+}
